@@ -12,6 +12,10 @@
 </body>
 <?php
 echo "Привет гит";
+echo "happy new year";
+echo "happy new year";
+echo "happy new year";
+echo "happy new year";
 ?>
 
 </html>
