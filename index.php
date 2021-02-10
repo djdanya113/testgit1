@@ -17,6 +17,7 @@ echo "happy new year";
 echo "happy new year";
 echo "last christmas I gave you my heart";
 echo "let it snow, let is snow, let it snow";
+echo "УРАААААААААААААААААА РАБОТАЕТ ВТОРОЙ ПОЛЬЗОВАТЕЛЬ";
 ?>
 
 </html>
